@@ -30,6 +30,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-
-#C:/Users/PC/PycharmProjects/pdftomp3/test.pdf
-#C:/Users/PC/PycharmProjects/pdftomp3/test2.pdf
